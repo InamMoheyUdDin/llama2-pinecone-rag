@@ -1,0 +1,9 @@
+
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+datasets
+tqdm
+python-dotenv
+pandas
